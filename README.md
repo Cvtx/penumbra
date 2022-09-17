@@ -1,0 +1,26 @@
+# Penumbra Jekyll Theme
+
+*Penumbra is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://cvtx.github.io/penumbra), or even [use it today](#usage).*
+
+## Usage
+
+To use the Penumrba theme:
+
+1. Add the following to your site's `_config.yml`:
+
+    ```yml
+    remote_theme: Cvtx/penumbra
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
+    
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
