@@ -9,6 +9,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Penumbra is a Jekyll theme for GitHub Pages"
   spec.homepage      = "https://github.com/Cvtx/penumbra"  
+  spec.metadata      = { 'github_repo' => 'git@github.com:Cvtx/penumbra.git'}
+
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
