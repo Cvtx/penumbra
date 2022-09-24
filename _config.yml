@@ -1,0 +1,20 @@
+title: Penumbra Theme
+description: Penumbra is a theme for GitHub Pages.
+logo: /assets/img/logo.png
+google_analytics:
+show_downloads: true
+color-scheme: auto
+theme: jekyll-theme-penumbra
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag  
+  
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/Cvtx/penumbra
+  - name: Blog
+    icon: <i class="fa-solid fa-pen"></i>
+    link: https://cvtx.github.io/blog/
+
+github: [metadata]
