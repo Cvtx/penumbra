@@ -1,7 +1,6 @@
 # Penumbra Jekyll Theme
 
-[![.github/workflows/gem-push.yml](https://github.com/Cvtx/penumbra/actions/workflows/gem-push.yml/badge.svg)](https://rubygems.org/gems/jekyll-theme-penumbra) 
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-penumbra.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+[![.github/workflows/gem-push.yml](https://github.com/Cvtx/penumbra/actions/workflows/gem-push.yml/badge.svg)](https://github.com/Cvtx/penumbra/actions/workflows/gem-push.yml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-penumbra.svg)](https://rubygems.org/gems/jekyll-theme-penumbra)
 
 *Penumbra is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://cvtx.github.io/penumbra), or even [use it today](#usage).*
 
