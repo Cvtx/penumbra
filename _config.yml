@@ -4,7 +4,7 @@ logo: /assets/img/logo.png
 google_analytics:
 show_downloads: true
 color-scheme: auto
-theme: jekyll-theme-penumbra
+remote_theme: cvtx/penumbra
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag  

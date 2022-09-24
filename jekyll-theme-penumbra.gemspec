@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-penumbra"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.license       = "MIT"
   spec.authors       = ["Cvtx"]
   spec.email         = ["re.cvtx@gmail.com"]
